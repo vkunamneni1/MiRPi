@@ -12,10 +12,12 @@ I also setup this GitHub repo to store this journal, all my source files, and ev
 
 **Total time spent: 1.5h**
 
-# 5/22/2025 Day 2: Further Planning
+# 5/23/2025 Day 2: Further Planning
 
 Today, I decided that the mirror itself wasn't complex enough for Highway, so I did some thinking and came up with an idea. I was planning on putting LED strip lights behind the mirror to give it that "floating" effect, and I thought it would be cool if a custom PCB with a photoresistor could change the brightness and color of the lights (through emitting IR/RF) based on the amount of light in a room.
 
 I also started to see if the parts I wanted to use were available online, and I was able to find relatively cheaper versions using Alibaba instead of Amazon.
 
 **Total time spent: 2h**
+
+# 5/24/2025 - CS Competition, couldn't work on MiRPi :(
